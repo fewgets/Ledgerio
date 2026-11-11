@@ -140,6 +140,12 @@ Ledgerio is a client product, so the source code is private.
 
 ---
 
+## 📜 License
+
+© 2026 Usama Shahid. All rights reserved. This repository is a project showcase; the source code is private.
+
+---
+
 ## 🤝 Let's Work Together
 
 <div align="center">
